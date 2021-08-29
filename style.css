@@ -68,7 +68,7 @@ e Font Link */
   text-align: center;
   line-height: 60px;
 }
-.sidebar .nav-list{
+.sidebar .nav-list {
   margin-top: 28px;
   height: 100%;
 }
@@ -152,7 +152,7 @@ e Font Link */
   background: #FFF;
 }
 .sidebar li a .links_name{
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 15px;
   font-weight: 400;
   white-space: nowrap;
@@ -226,13 +226,14 @@ e Font Link */
   padding-right: 4.7px;
   
 }
+
 .sidebar.open .profile #log_out{
   width: 50px;
   background: none;
 }
 .home-section{
   position: relative;
-  background: #1f1b24;
+  background: #070607e5;
   min-height: 100vh;
   top: 0;
   left: 74px;
