@@ -69,13 +69,14 @@ e Font Link */
   line-height: 60px;
 }
 .sidebar .nav-list{
-  margin-top: 20px;
+  margin-top: 28px;
   height: 100%;
 }
 .sidebar li{
   position: relative;
   margin: 8px 0;
   list-style: none;
+  margin-top: 3px;
 }
 .sidebar li .tooltip{
   position: absolute;
